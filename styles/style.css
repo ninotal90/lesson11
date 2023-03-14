@@ -512,6 +512,10 @@ ul {
 .check-box {
     margin-top: 20px;
 }
+.check-box ul {
+    display: flex;
+    flex-direction: column;
+}
 .check-box li {
     font-size: 15px;
     line-height: 18.75px;
